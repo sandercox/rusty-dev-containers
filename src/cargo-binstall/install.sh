@@ -1,6 +1,8 @@
 #!/bin/bash
 set -e
 
+umask 002
+
 PACKAGES=${PACKAGES:-""}
 
 CARGO_PACKAGES=("${PACKAGES//,/ }")
@@ -20,5 +22,4 @@ if [ -z "${PACKAGES}" ]; then
     exit 0
 fi
 
-umask 002
 cargo binstall -y --force --locked $CARGO_PACKAGES
