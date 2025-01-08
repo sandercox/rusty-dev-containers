@@ -7,7 +7,7 @@ A feature to install xwin & the x86_64-pc-windows-msvc target, allowing cross co
 
 ```json
 "features": {
-    "ghcr.io/lee-orr/rusty-dev-containers/rust_windows_msvc:0": {}
+    "ghcr.io/sandercox/rusty-dev-containers/rust_windows_msvc:0": {}
 }
 ```
 
@@ -21,4 +21,4 @@ A feature to install xwin & the x86_64-pc-windows-msvc target, allowing cross co
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/lee-orr/rusty-dev-containers/blob/main/src/rust_windows_msvc/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/sandercox/rusty-dev-containers/blob/main/src/rust_windows_msvc/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._

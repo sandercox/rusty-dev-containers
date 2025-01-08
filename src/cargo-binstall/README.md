@@ -7,7 +7,7 @@ A feature to install cargo binstall
 
 ```json
 "features": {
-    "ghcr.io/lee-orr/rusty-dev-containers/cargo-binstall:0": {}
+    "ghcr.io/sandercox/rusty-dev-containers/cargo-binstall:0": {}
 }
 ```
 
@@ -21,4 +21,4 @@ A feature to install cargo binstall
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/lee-orr/rusty-dev-containers/blob/main/src/cargo-binstall/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/sandercox/rusty-dev-containers/blob/main/src/cargo-binstall/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._

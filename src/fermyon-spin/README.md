@@ -7,7 +7,7 @@ A feature to install Fermyon Spin
 
 ```json
 "features": {
-    "ghcr.io/lee-orr/rusty-dev-containers/fermyon-spin:0": {}
+    "ghcr.io/sandercox/rusty-dev-containers/fermyon-spin:0": {}
 }
 ```
 
@@ -21,4 +21,4 @@ A feature to install Fermyon Spin
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/lee-orr/rusty-dev-containers/blob/main/src/fermyon-spin/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/sandercox/rusty-dev-containers/blob/main/src/fermyon-spin/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
